@@ -1,4 +1,4 @@
-### Hey👋, I'm Rutuja!
+Hey👋, I'm Rutuja!
 <br/>
 
 <a href="https://www.linkedin.com/in/rutuja-wairale-66686219b/">
@@ -18,7 +18,7 @@
   <img align="left" alt="Abhishek's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <br />
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
