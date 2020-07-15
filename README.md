@@ -18,7 +18,7 @@ Hey👋, I'm Rutuja!
   <img align="left" alt="Abhishek's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
-
+<br/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
