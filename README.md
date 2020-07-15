@@ -1,5 +1,5 @@
 Hey👋, I'm Rutuja!
-<br/>
+<br />
 
 <a href="https://www.linkedin.com/in/rutuja-wairale-66686219b/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
